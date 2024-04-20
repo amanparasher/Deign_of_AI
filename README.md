@@ -1,1 +1,1 @@
-# Deign_of_AI
+# Deign_of_AI LABs
